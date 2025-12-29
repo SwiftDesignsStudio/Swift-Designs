@@ -77,7 +77,7 @@ swift-designs/
 | 💬 **GoHighLevel Chat** | Embed real-time chat widget for client communication |
 | 🔐 **reCAPTCHA v3** | Add invisible spam protection to your contact form |
 | 📊 **Google Analytics** | Track visitor behavior and conversions |
-| 🚀 **Netlify/Vercel Static Version** | Optional build for frontend-only hosting |
+| 🚀 **Vercel Static Version** | Optional build for frontend-only hosting |
 
 ---
 
